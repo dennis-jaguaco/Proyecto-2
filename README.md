@@ -27,7 +27,7 @@ Un interruptor de tres vías tiene un mecanismo capaz de encender y a su vez apa
 ![](https://github.com/dennis-jaguaco/Proyecto-2/blob/main/interruptor.jpg)
 
 ### Cables Neutro, Fase y Tierra
-![](https://github.com/dennis-jaguaco/Proyecto-2/blob/main/cables.jpg)
+![](https://github.com/dennis-jaguaco/Proyecto-2/blob/main/cable.jpg)
 
 ### Neutro
 
