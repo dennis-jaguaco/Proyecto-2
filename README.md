@@ -68,7 +68,7 @@ Se procedera a especificar de manera practica el procedimiento de armado e insta
 
 ### ESQUEMA E IMAGENES
 
-![](https://github.com/dennis-jaguaco/Proyecto-2/blob/main/esquema1.png)
+![](https://github.com/dennis-jaguaco/Proyecto-2/blob/main/esquema.jpg)
 ![](https://github.com/dennis-jaguaco/Proyecto-2/blob/main/circuito1.jpg)
 ![](https://github.com/dennis-jaguaco/Proyecto-2/blob/main/circuito2.jpg)
 
