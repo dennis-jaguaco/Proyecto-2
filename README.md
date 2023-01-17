@@ -3,7 +3,7 @@
 
 # INTEGRANTES
 * Kevin Mauricio Viteri
-*Dennis Stalin Jaguaco Veloso
+* Dennis Stalin Jaguaco Veloso
 * Alexis Omar Grijalva Nacevilla
 ## 1. OBJETIVOS
 ### OBJETIVO GENERAL
